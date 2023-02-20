@@ -1,0 +1,40 @@
+#thumb {
+  height: 40px;
+  width: auto;
+}
+.d-flex {
+  margin-left: 250px;
+}
+.welcome {
+  height: 559px;
+  width: 100%;
+}
+.Albums {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 30px 10px 20px 10px;
+}
+.episodes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 30px 30px 20px 30px;
+}
+.titleNav {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  width: 80px;
+  height: 40px;
+  align-self: center;
+  margin-left: 5px;
+  margin-top: 13px;
+}
+.titleNa {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  width: auto;
+  height: 40px;
+}
